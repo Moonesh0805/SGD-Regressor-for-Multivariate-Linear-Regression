@@ -10,12 +10,19 @@ To write a program to predict the price of the house and number of occupants in 
 ## Algorithm
 
 1.Start
+
 2.Data Preparation
+
 3.Hypothesis Definition
+
 4.Cost Function
+
 5.Parameter Update Rule
+
 6.Iterative Training
+
 7.Model Evaluation
+
 8.End 
 
 ## Program:
@@ -24,9 +31,7 @@ To write a program to predict the price of the house and number of occupants in 
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: MOONESH P
 RegisterNumber:  212223230126
-*/
-```
-```py
+
 
 import pandas as pd
 data=pd.read_csv("C:/Users/Admin/Desktop/Placement_Data.csv")
@@ -65,6 +70,7 @@ from sklearn.metrics import classification_report
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+*/
 ```
 
 
