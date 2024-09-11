@@ -9,21 +9,21 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 
-1.Start
+ 1.Start
 
-2.Data Preparation
+ 2.Data Preparation
 
-3.Hypothesis Definition
+ 3.Hypothesis Definition
 
-4.Cost Function
+ 4.Cost Function
 
-5.Parameter Update Rule
+ 5.Parameter Update Rule
 
-6.Iterative Training
+ 6.Iterative Training
 
-7.Model Evaluation
+ 7.Model Evaluation
 
-8.End 
+ 8.End 
 
 ## Program:
 ```
